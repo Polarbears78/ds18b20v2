@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "ds18b20": "github:dongjoon9331/pxt-ds18b20#0.1.1"
+        "ds18b20": "github:dongjoon9331/pxt-ds18b20#0.1.1",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.0.1"
     },
     "files": [
         "main.blocks",
